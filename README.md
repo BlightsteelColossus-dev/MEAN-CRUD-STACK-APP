@@ -9,16 +9,6 @@ $ cd MEAN-Stack-CRUD-Operations/AngularApp
 $ npm install
 ```
 
- ## How it works ?
- 
- :tv: Video tutorial on this same topic  
- Url : https://youtu.be/UYh6EvpQquw
- 
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=UYh6EvpQquw
-" target="_blank"><img src="http://img.youtube.com/vi/UYh6EvpQquw/0.jpg" 
-alt="Video Tutorial for MEAN Stack CRUD Operations" width="500" height="400" border="10" /></a>
-
-
 ## Related MEAN Stack Tutorial in Order
 1. CRUD Operation  
     Insert Update View and Delete : https://goo.gl/LbQ4BM [_This One_]  
